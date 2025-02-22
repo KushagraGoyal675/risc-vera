@@ -73,6 +73,6 @@ Risc-Vera is open-source and licensed under the MIT License.
 
 ## 📞 Contact
 
-For queries or contributions, reach out at kushagra.kushagra@sitpune.edu.in / om.dhamame.btech2023@sitpune.edu.inor open an issue in the GitHub repository.
+For queries or contributions, reach out at kushagra.kushagra@sitpune.edu.in / om.dhamame.btech2023@sitpune.edu.in / mayank.hete.btech2023@sitpune.edu.in or open an issue in the GitHub repository.
 
 ---
